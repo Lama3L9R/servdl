@@ -1,0 +1,19 @@
+{
+  "name": "servdl",
+  "version": "1.0.0",
+  "description": "A simple too to allow you to download files from a directory over http",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "lamadaemon",
+  "license": "Anti-996",
+  "dependencies": {
+    "@fastify/static": "^6.10.2",
+    "@fastify/vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.4",
+    "fastify": "^4.22.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "bin": "server.js"
+}
